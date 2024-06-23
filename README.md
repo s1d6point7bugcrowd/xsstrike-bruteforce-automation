@@ -47,6 +47,6 @@ Additional Tips
 
     Ensure gau, gf, and XSStrike are installed and properly configured on your system.
     Customize the encoded_payloads.txt file to include your desired payloads for more effective testing.
-    Consider adding logging to capture the output of XSStrike for further analysis.
+   
 
 This script will help you automate the process of testing multiple URLs for XSS vulnerabilities using XSStrike.
